@@ -1,0 +1,13 @@
+langchain
+python-dotenv
+ipykernel
+langchain-community
+langchain-groq
+mysql-connector-python
+SQLAlchemy
+streamlit
+pathlib
+langchain-cli
+google-generativeai
+langchain_ollama
+langchain_core
